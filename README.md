@@ -10,8 +10,11 @@ Hacettepe University has a large and complex campus. Especially for new students
 
 ###### Prepared by:
 21733097 Semih GÜZEL
+
 21733012 Emre DEMİRİZ
+
 21732857 Dilan ATEŞ
+
 21632662 Firdevs KAMİŞLİ
 
 
