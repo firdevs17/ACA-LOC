@@ -2,8 +2,8 @@
 ## **GMT 351- Geospatial Data Management**
 ## **Final Project Report**
 
-## **Project Name:** 
+###### **Project Name:** 
 *ACA-LOC*
 
-## What is your project?
+###### What is your project?
 
